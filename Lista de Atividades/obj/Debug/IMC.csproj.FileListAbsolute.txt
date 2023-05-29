@@ -1,0 +1,11 @@
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\bin\Debug\Lista de Atividades.exe.config
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\bin\Debug\Lista de Atividades.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\bin\Debug\Lista de Atividades.pdb
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\Lista_de_Atividades.Form1.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\Lista_de_Atividades.Properties.Resources.resources
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\Lista de Atividades.exe
+C:\Users\2022102020014\Desktop\L. Programação (Elias)\2bim\Lista de Atividades\Lista de Atividades\obj\Debug\Lista de Atividades.pdb
