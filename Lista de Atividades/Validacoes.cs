@@ -7,6 +7,7 @@ public static class Validacoes
     public static bool ValidaCPF(string cpf)
     {
         //Alteração para verificar git e github//
+        //Alteração 2 - verificar//
         //se eu quiser adicionar mensagens aqui: MessageBox.Show();
 
         cpf = cpf.Replace(".", "");//remove os pontos do cpf
